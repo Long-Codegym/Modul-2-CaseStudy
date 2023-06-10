@@ -1,0 +1,45 @@
+Teacher
+
+Mã lớp        Tên            Giới tính        Birthday       địa chỉ            email                     Sđt
+
+C032023H      John Toàn      nam              2/6/1998      5 Cầu Diễn            johntoan@gamil.com         097626262
+
+C032023H      Hiệp Codegym   nam              1/1/2001     5 Mỏ địa        hiepCodegym@gmail.com      092328374
+
+User{id=89801, code='C032023H', name='John Toàn', sex='NAM', birthDay=Tue Jun 02 00:00:00 ICT 1998, address='5 Cầu Diễn',
+email='johntoan@gamil.com', phone='097626262', username='johntoan@gamil.com', password='abc', role=TEACHER, status=ACTIVE, subjectList=[]}
+
+User{id=999456, code='C032023H', name='Hiệp Codegym', sex='nam', birthDay=Mon Jan 01 00:00:00 ICT 2001, address='5 Mỏ địa',
+email='hiepCodegym@gmail.com', phone='092328374', username='hiepCodegym@gmail.com', password='abc', role=TEACHER, status=ACTIVE, subjectList=[]}
+
+Student
+
+Mã lớp
+
+C032023H     Long Vladirmir    nam          2/2/1999        5 HomeStay cổ nhuế     longvtv2003@gmail.com      0398020299
+
+C032023H     Anh Kim Long      nam          1/1/1994        5  Cầu vượt TDH        kimlong@gmail.com          0928277227
+
+C032023H     Anh Tiểu Cường      nam          1/1/1994       5   Cầu vượt TDH        tieucuong@gmail.com          09876567
+
+C032023H     Trung Cày Quốc      nam          1/1/1994       5   HomeStay Cổ Nhuế        trung@gmail.com          09876562782
+
+C032023H     Anh Sơn Leader      nam          1/1/1994          HomeStay Cổ Nhuế        sơnxahoiden@gmail.com         0298762782
+
+C032023H     Chị Hương        nữ         1/1/1984         HomeStay Cổ Nhuế       huongnguyen@gmail.com         0298762782
+
+
+
+Subject
+
+Mã môn học
+
+math                            toán
+
+physics                          vật lý
+
+Chemistry                         hóa học
+
+IT                              công nghệ thông tin
+
+
